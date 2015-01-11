@@ -17,7 +17,7 @@ A tiny dungeon crawler that puts the player in a 5x5 grid to explore what's hidi
 ![](http://i.imgur.com/bg5rEnw.png "Simple Crawler")![](http://i.imgur.com/AJswUFx.png "Simple Crawler")
 
 # Known bugs
-• After dying, game no longer works.
+• After dying, loading no longer works.
 
 • Menu sometimes freezes over the board until it's repainted again.
 
